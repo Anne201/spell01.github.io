@@ -25,7 +25,7 @@ datafolder = 'data';
 //  以半形逗號為【選項文字】與【題庫檔名】兩欄的分欄符號
 //
 menuItemLines = function(){/*--這一行請勿更改--
-單字高手U3:Google TTS,04-tts-google.js
-單字高手U4:Google TTS,05-tts-ispeech.js
+單字高手四上U3:Google TTS,01-tts-google.js
+單字高手四上U4:Google TTS,02-tts-ispeech.js
 -----*/}.toString().replace(/\r/g,"").slice("function(){/*--這一行請勿更改--".length+1,-9);
 
